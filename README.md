@@ -21,10 +21,16 @@ A simple and elegant Python Weather App that provides real-time weather informat
 
 ## 🛠️ Technologies Used
 
-- Python
-- Requests
-- Weather API
-- PyQt5
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyQt5](https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![Requests](https://img.shields.io/badge/Requests-2A5CAA?style=for-the-badge)
+![OpenWeatherMap API](https://img.shields.io/badge/OpenWeatherMap_API-EB6E4B?style=for-the-badge)
+![python-dotenv](https://img.shields.io/badge/python--dotenv-4B8BBE?style=for-the-badge)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
