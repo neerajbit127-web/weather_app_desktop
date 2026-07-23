@@ -39,7 +39,7 @@ A simple and elegant Python Weather App that provides real-time weather informat
 Clone the repository
 
 ```bash
-git clone https://github.com/YourUsername/weather-app.git
+git clone https://github.com/neerajbit127-web/weather-app.git
 ```
 
 Go into the project
